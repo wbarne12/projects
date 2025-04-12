@@ -1,7 +1,6 @@
 # Projects and Labs
 
-Stanley Barnes
-wstanleyb@icloud.com
+Stanley Barnes, wstanleyb@icloud.com
 
 ## Introduction
 This git repo was designed as a place to share projects that I have worked on as well as select labs.
