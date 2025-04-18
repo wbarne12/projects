@@ -1,9 +1,9 @@
 # Project 04: Path Finding
 
-  Authors: Barnes, Stanley; Canes, Kevin
-  Emails:  wbarne12@vols.utk.edu, hyg486@vols.utk.edu 
-  NetID:   wbarne12, hyg468
-  Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s
+  Authors: Barnes, Stanley; Canes, Kevin  
+  Emails:  wbarne12@vols.utk.edu, hyg486@vols.utk.edu  
+  NetID:   wbarne12, hyg468  
+  Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s  
 
 ---
 
