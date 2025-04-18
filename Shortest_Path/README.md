@@ -5,8 +5,6 @@
   NetID:   wbarne12, hyg468  
   Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s  
 
----
-
 ## src/dijkstra
 - Implements Dijkstra's Algorithm to perform rudimentary path finding on a 2D tile-based map. 
 - Useage: ./dijkstra < input_file
