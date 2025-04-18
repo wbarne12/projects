@@ -1,12 +1,11 @@
 # Project 04: Path Finding
-==============================================
 
-Authors: Barnes, Stanley; Canes, Kevin
-Emails:  wbarne12@vols.utk.edu, hyg486@vols.utk.edu 
-NetID:   wbarne12, hyg468
-Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s
+  Authors: Barnes, Stanley; Canes, Kevin
+  Emails:  wbarne12@vols.utk.edu, hyg486@vols.utk.edu 
+  NetID:   wbarne12, hyg468
+  Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s
 
-===============================================
+---
 
 ## src/dijkstra
 - Implements Dijkstra's Algorithm to perform rudimentary path finding on a 2D tile-based map. 
@@ -50,7 +49,6 @@ Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s
 | 200           | 0.0772           | 11.1141 MB     |
 | 500           | 0.502            | 76.0618 MB     |
 | 1000          | 2.096            | 307.373 MB     |
-|---------------|------------------|----------------|
 
 ## Lab Questions
 1. How did you represent the map as a graph?
@@ -69,6 +67,5 @@ Github:  https://github.com/Dafunkmonk/Project-4-dijkstra-s
     not have time to refractor. 
 
 ## Contributions:
-Stanley: Wrote dijkstra's
-
-Kevin: Wrote random number and benchmarking. 
+  Stanley: Wrote dijkstra's
+  Kevin: Wrote random number and benchmarking. 
